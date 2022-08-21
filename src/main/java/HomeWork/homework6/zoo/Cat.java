@@ -6,6 +6,7 @@ public class Cat extends Animal {
         this.name = name;
         this.swim = swim;
         this.run = run;
+
     }
 
     public void run() {
